@@ -1,5 +1,13 @@
 # FF5CD_Tracker
-Final Fantasy 5 Career Day Pack v 0.9.2.0
+Final Fantasy 5 Career Day Pack v 0.9.2.4
+
+What's New since 0.9.2.0?
+- Added pinned locations
+- Cleaned up shop tracking and corrected Crystal icon
+- Combined W1/W2 tabs and Hint/Boss tabs
+- Revised Boss Guide to make "Heavy?" represented with Y/N
+- Changed "Elemental Weakness (EW)" to "Weakness (W)"
+- Overall changes to Boss Guide to make it easier to read
 
 What's in the Package?
 
