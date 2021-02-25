@@ -1,5 +1,5 @@
 # FF5CD_Tracker
-Final Fantasy 5 Career Day Pack v 0.9.2.4
+Final Fantasy 5 Career Day Pack v 0.9.2.5
 
 What's New since 0.9.2.0?
 - Added pinned locations
