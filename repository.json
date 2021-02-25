@@ -5,7 +5,7 @@
       "name": "FFV Career Day",
       "author": "strizer86",
       "game_name": "Final Fantasy V",
-      "version": "0.9.2.2",
+      "version": "0.9.2.3",
       "required_app_version": "2.3.0.0",
       "uid": "ff5cd_strizer86",
       "flags": [ "map", "pins" ],
