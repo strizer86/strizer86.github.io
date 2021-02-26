@@ -1,5 +1,9 @@
 # FF5CD_Tracker
-Final Fantasy 5 Career Day Pack v 0.9.2.5
+Final Fantasy 5 Career Day Pack v 1.0.0.0
+
+What's New in final version?
+- Added shrine entrance and void bosses
+- Added "check" badge system to allow tracking of bosses encountered in addition to locations checked
 
 What's New since 0.9.2.0?
 - Added pinned locations
