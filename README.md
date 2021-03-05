@@ -1,7 +1,11 @@
 # FF5CD_Tracker
-Final Fantasy 5 Career Day Pack v 1.0.0.0
+Final Fantasy 5 Career Day Pack v 1.1.0.0
 
-What's New in final version?
+What's New in 1.1.0.0?
+- Autotracking! Supports bizhawk, snes9x-rr, & console via SD2SNES
+- Added "Mid" layout. This sits between Full and Slim by keepings the tabs but eliminating the regular chests & shops
+
+What's New in 1.0.0.0?
 - Added shrine entrance and void bosses
 - Added "check" badge system to allow tracking of bosses encountered in addition to locations checked
 
