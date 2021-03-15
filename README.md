@@ -1,5 +1,8 @@
 # FF5CD_Tracker
-Final Fantasy 5 Career Day Pack v 1.1.0.0
+Final Fantasy 5 Career Day Pack v 1.1.1.0
+
+What's New in 1.1.0.0?
+- Slim layout bug fix
 
 What's New in 1.1.0.0?
 - Autotracking! Supports bizhawk, snes9x-rr, & console via SD2SNES
