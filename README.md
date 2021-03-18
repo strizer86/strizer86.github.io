@@ -10,7 +10,7 @@ What's New in 1.1.1.0?
 
 What's New in 1.1.0.0?
 - Autotracking! Supports bizhawk, snes9x-rr, & console via SD2SNES
-- Autotracks Key Items, Boss Locations, abilities that impact Goss Guide, & checks off bosses seen
+- Autotracks Key Items, Boss Locations, abilities that impact Boss Guide, & checks off bosses seen
 - Added "Mid" layout. This sits between Full and Slim by keepings the tabs but eliminating the regular chests & shops
 
 What's New in 1.0.0.0?
