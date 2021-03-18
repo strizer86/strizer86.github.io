@@ -26,7 +26,7 @@ What's New since 0.9.2.0?
 - Overall changes to Boss Guide to make it easier to read
 
 What's in the Package?
-4 layouts to offer a variety of options based on player preference & knowledge.
+- 4 layouts to offer a variety of options based on player preference & knowledge.
 - Full Tracker (Maps, Hint Tracker, & Boss guide. This is the absolute max amount of info and tracking available)
 - Mid Tracker (Same as above, just without the chests and shops)
 - Slim Tracker (Same items, bosses, & hints tracked as Full Tracker but without the tabs)
