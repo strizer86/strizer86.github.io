@@ -28,7 +28,7 @@ What's New in 1.0.0.0?
 - Added shrine entrance and void bosses
 - Added "check" badge system to allow tracking of bosses encountered in addition to locations checked
 
-What's New since 0.9.2.0?
+What's New in 0.9.2.0?
 - Added pinned locations
 - Cleaned up shop tracking and corrected Crystal icon
 - Combined W1/W2 tabs and Hint/Boss tabs
