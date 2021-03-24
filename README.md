@@ -1,5 +1,9 @@
 # FF5CD_Tracker
-Final Fantasy 5 Career Day Pack v 1.1.2.0
+Final Fantasy 5 Career Day Pack v 1.1.3.0
+
+What's New in 1.1.3.0?
+- Added 4x Gargoyle & Void Bosses to Maps (Full/Mid Layouts)
+- Corrected Atmos weakness from Slow to Sleep
 
 What's New in 1.1.2.0?
 - Corrected Flying Lonka chest count
