@@ -2,7 +2,7 @@
   "name": "strizer86's Tracker Packages",
   "packages": [
     {
-      "name": "FFV Career Day",
+      "name": "FFV Career Day (V1.0 Logic)",
       "author": "strizer86",
       "game_name": "Final Fantasy V",
       "version": "1.1.3.0",
@@ -12,11 +12,11 @@
       "link": "https://strizer86.github.io/ff5cd_strizer86.zip",
       "variants": [
         {
-          "name": "Full  - Key Items, Boss Locations, Maps, Chests, Shops, Hints, & Boss Guide",
+          "name": "Full - Key Items, Boss Locations, Maps, Chests, Shops, Hints, & Boss Guide",
           "flags": [ "map", "pins", "autotracker" ]
         },
         {
-          "name": "Mid  - Key Items, Boss Locations, Maps, Hints, & Boss Guide",
+          "name": "Mid - Key Items, Boss Locations, Maps, Hints, & Boss Guide",
           "flags": [ "map", "pins", "autotracker" ]
         },
         {
