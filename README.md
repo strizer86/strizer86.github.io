@@ -1,5 +1,5 @@
 # FF5CD_Tracker
-Final Fantasy 5 Career Day Pack v 1.1.3.0
+Final Fantasy 5 Career Day Pack v 1.1.4.0
 
 What's in the Package?
 - 4 layouts to offer a variety of options based on player preference & knowledge.
