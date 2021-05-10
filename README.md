@@ -10,9 +10,17 @@ What's in the Package?
 
 Changelog
 
+1.1.4.0
+- Added "Death" to Wingraptor weaknesses
+- Corrected Moore shop count from 3 to 4
+- Corrected Trench chest count from 5 to 6
+- Corrected Pyramid chest count from 29 to 28
+- Corrected Magisa location HP from 650 to 850
+- Corrected Sol Cannon location HP from 11.5k to 12.5k
+
 1.1.3.0
 - Added 4x Gargoyle & Void Bosses to Maps (Full/Mid Layouts)
-- Corrected Atmos weakness from Slow to Sleep
+- Corrected Atmos weakness from "Slow" to "Sleep"
 
 1.1.2.0
 - Corrected Flying Lonka chest count
