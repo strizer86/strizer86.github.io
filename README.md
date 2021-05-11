@@ -1,5 +1,5 @@
 # FF5CD_Tracker
-Final Fantasy 5 Career Day Pack v 1.1.4.0
+Final Fantasy 5 Career Day Pack v 1.1.4.1
 
 What's in the Package?
 - 4 layouts to offer a variety of options based on player preference & knowledge.
@@ -8,7 +8,21 @@ What's in the Package?
 - Slim Tracker (Same items, bosses, & hints tracked as Full Tracker but without the tabs)
 - Min Tracker (Minimalist layout featuring just the key items)
 
+How does it work?
+Everything functions like your standard emotracker pack for the most part with a few additions.
+The Hint tab allows for "checklist" style tracking of Path of the Void (PotV) hints, as well as barren areas & world hints. Direct hints can be tracked here or the map.
+The Boss Guide shows elemental weaknesses along with useful status effects. The player can toggle ones they have at the top and it will highlight the boss vulnerabilities.
+
+The World 1 & 2 "Lock/Open" options are set to match your seed settings. If world 2 is locked it will be opened when you have Adamantite & if world 3 is locked it will be opened upon beating ExDeath in world 2.
+
+End Goal
+The end goal of this pack was not only to help me learn the rando, but combine commonly used resources into a single spot without it looking convoluted.
+Essentially this meant picking the most important info from the boss spreadsheet and making a hint tracker that's easily visible & functional with few clicks.
+
 Changelog
+
+1.1.4.1
+- Fixed issue with recent changes not being reflected in Mid layout
 
 1.1.4.0
 - Added "Death" to Wingraptor weaknesses
@@ -45,14 +59,3 @@ Changelog
 - Revised Boss Guide to make "Heavy?" represented with Y/N
 - Changed "Elemental Weakness (EW)" to "Weakness (W)"
 - Overall changes to Boss Guide to make it easier to read
-
-How does it work?
-Everything functions like your standard emotracker pack for the most part with a few additions.
-The Hint tab allows for "checklist" style tracking of Path of the Void (PotV) hints, as well as barren areas & world hints. Direct hints can be tracked here or the map.
-The Boss Guide shows elemental weaknesses along with useful status effects. The player can toggle ones they have at the top and it will highlight the boss vulnerabilities.
-
-The World 1 & 2 "Lock/Open" options are set to match your seed settings. If world 2 is locked it will be opened when you have Adamantite & if world 3 is locked it will be opened upon beating ExDeath in world 2.
-
-End Goal
-The end goal of this pack was not only to help me learn the rando, but combine commonly used resources into a single spot without it looking convoluted.
-Essentially this meant picking the most important info from the boss spreadsheet and making a hint tracker that's easily visible & functional with few clicks.
