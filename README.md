@@ -4,7 +4,7 @@ Final Fantasy 5 Career Day Pack v 1.1.4.1
 What's in the Package?
 - 4 layouts to offer a variety of options based on player preference & knowledge.
 - Full Tracker (Maps, Hint Tracker, & Boss guide. This is the absolute max amount of info and tracking available)
-- Mid Tracker (Same as above, just without the chests and shops)
+- Mid Tracker (Same as above, just without the chests and shops in the map)
 - Slim Tracker (Same items, bosses, & hints tracked as Full Tracker but without the tabs)
 - Min Tracker (Minimalist layout featuring just the key items)
 
@@ -20,6 +20,11 @@ The end goal of this pack was not only to help me learn the rando, but combine c
 Essentially this meant picking the most important info from the boss spreadsheet and making a hint tracker that's easily visible & functional with few clicks.
 
 Changelog
+
+1.2.0.0
+- Added detailed Shop Tracker (Full/Mid layouts)
+- Removed "Bolt" weakness from Sol Cannon Launcher
+- Corrected Calofisteri & Apanda access rules
 
 1.1.4.1
 - Fixed issue with recent changes not being reflected in Mid layout
