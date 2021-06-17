@@ -5,7 +5,7 @@
       "name": "FFV Career Day (V1.0 Logic)",
       "author": "strizer86",
       "game_name": "Final Fantasy V",
-      "version": "1.2.1.0",
+      "version": "1.2.1.1",
       "required_app_version": "2.3.0.0",
       "uid": "ff5cd_strizer86",
       "flags": [ "map", "pins", "autotracker" ],
