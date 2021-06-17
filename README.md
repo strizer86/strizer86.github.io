@@ -1,5 +1,5 @@
 # FF5CD_Tracker
-Final Fantasy 5 Career Day Pack v 1.2.1.1
+Final Fantasy 5 Career Day Pack v 1.2.1.2
 
 What's in the Package?
 - 4 layouts to offer a variety of options based on player preference & knowledge.
@@ -20,6 +20,9 @@ The end goal of this pack was not only to help me learn the rando, but combine c
 Essentially this meant picking the most important info from the boss spreadsheet and making a hint tracker that's easily visible & functional with few clicks.
 
 Changelog
+
+1.2.1.2
+- Corrected hint tab image as previous update used older version
 
 1.2.1.1
 - Corrected spelling error on Hints tab
