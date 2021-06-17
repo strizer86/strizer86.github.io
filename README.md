@@ -21,6 +21,9 @@ Essentially this meant picking the most important info from the boss spreadsheet
 
 Changelog
 
+1.2.1.1
+- Corrected spelling error on Hints tab
+
 1.2.1.0
 - Rearranged tabs for ease of use. Combined W3 with Bosses, and Hints with Shops (Full/Mid layouts)
 
